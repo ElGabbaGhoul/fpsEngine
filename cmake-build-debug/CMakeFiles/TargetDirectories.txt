@@ -1,3 +1,0 @@
-C:/Users/Scooter/CLionProjects/ConsoleFPS/cmake-build-debug/CMakeFiles/ConsoleFPS.dir
-C:/Users/Scooter/CLionProjects/ConsoleFPS/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Scooter/CLionProjects/ConsoleFPS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
